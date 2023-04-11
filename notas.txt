@@ -1,0 +1,15 @@
+comandos do git
+
+para iniciar: git init
+
+para verve status: git status
+
+preparar arquivo para ser comitado : git add  e nome do arquivo
+
+para  criar uma versão : git commit
+
+para adicionar mais de um arquivon no projeto : git .
+
+ver quais as versões dentro do git:  git log
+
+escolher qual versao trabalhar: git checkout e o endereço do commit
