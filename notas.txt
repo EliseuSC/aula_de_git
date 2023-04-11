@@ -6,7 +6,7 @@ para verve status: git status
 
 preparar arquivo para ser comitado : git add  e nome do arquivo
 
-para  criar uma versão : git commit
+para  criar uma versão : git commit  -m  "Descrição do que foi feito"
 
 para adicionar mais de um arquivon no projeto : git .
 
