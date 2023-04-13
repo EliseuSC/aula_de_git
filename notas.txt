@@ -13,3 +13,6 @@ para adicionar mais de um arquivon no projeto : git .
 ver quais as versões dentro do git:  git log
 
 escolher qual versao trabalhar: git checkout e o endereço do commit
+
+juntar uma modificação com outra : git checkout , para ir na verção que voce quer 
+adiciona a outra mudança e emtao :git merge e o nome da branch que voce quer adicionar
